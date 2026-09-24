@@ -1,0 +1,18 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 2782a5c9-6751-4fe9-bd4b-727ff09d4949
+  title: ML4STS Public Bibliography
+  # description:
+  # keywords: []
+  authors: ["Sarah M Brown"]
+  github: https://github.com/ml4sts/publicbib
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+  exclude:
+    - README.md
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
+
