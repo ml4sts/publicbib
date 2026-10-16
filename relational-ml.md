@@ -1,5 +1,11 @@
 # Relational Reinterpretations of Machine Learning
 
+::::{note}
+This is an incomplete working bibliography for an in-progress project
+
+:::::
+
+
 @andrews2025immortal Summarizes the theory-free ideal, argues that it is not achieved, and that the best ML occurs when theory is embraced instead of attempting to minimize it. This also introduces the language of doctrine vs harmful meta-narrative. 
 
 @borrego2007conceptual in a study of a five day "Conducting Rigorous Research in Engineering Education" workshop for engineering faculty, researchers found that eningeering faculty found it difficult to grasp the concept of a theoretical framework in desiging educational studies. The authors attribute this to the fact that education research is a low consensus discipline where theoretical frameworks need to be explicit and defended, while engineering feilds tend to be high consensus and therefore rely on many implicit research decisions. 
@@ -13,3 +19,10 @@
 1. physicalism
 1. reification of mathematical entitities
 1. experience is epiphnomenal
+
+
+@metz2026introduction introduces the ideas of a relational moral theory before the remainder of the book discusses specific aspects of justice. Specifically, it addresses how relational definitions differ from more commonly discussed Western conceptualizations of justice including  utilitarianism, libertarianism, Rawlsian social contract theory, and the capabilities.  It places relational justice as having emerged from sub-Saharan African philosophies
+
+
+@inie2026deanthropomorphizing offers ways to avoid anthropromorphization
+<!-- https://wwnorton.com/books/how-data-happened -->
