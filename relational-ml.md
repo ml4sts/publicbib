@@ -26,3 +26,5 @@ This is an incomplete working bibliography for an in-progress project
 
 @inie2026deanthropomorphizing offers ways to avoid anthropromorphization
 <!-- https://wwnorton.com/books/how-data-happened -->
+
+@connolly2020why makes an argument that organizationally, computing belongs in the social sciences
